@@ -1,3 +1,5 @@
 
 ipython
 requests
+click
+stop-words
