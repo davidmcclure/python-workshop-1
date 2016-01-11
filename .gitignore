@@ -1,0 +1,6 @@
+
+env
+.ipynb_checkpoints
+.cache
+*.egg-info
+*.pyc
